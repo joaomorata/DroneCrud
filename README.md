@@ -1,4 +1,4 @@
-# 🏥 AcademiaCrud
+# 🏥 DroneCrud
 
 Sistema desenvolvido em **ASP.NET Core MVC** utilizando a linguagem **C#** e o padrão arquitetural **Model-View-Controller (MVC)**.
 
@@ -117,7 +117,7 @@ Pressione **F5** ou clique em **Iniciar** no Visual Studio.
 # 📂 Estrutura do Projeto
 
 ```text
-AcademiaCrud
+DroneCrud
 │
 ├── Controllers
 ├── Models
