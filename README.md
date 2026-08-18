@@ -77,7 +77,7 @@ O DataTables é utilizado para facilitar a **pesquisa, paginação e ordenação
 ## Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/AcademiaCrud.git
+git clone https://github.com/joaomorata/DroneCrud.git
 ```
 
 ## Abra a solução
